@@ -5,7 +5,8 @@
   "main": "generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "postcss src/styles.src.css -o dist/styles.css"
+    "build": "postcss src/styles.src.css -o dist/styles.css",
+    "dev": "npm run build && live-server --open=index.html --port=8080"
   },
   "repository": {
     "type": "git",

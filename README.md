@@ -4,10 +4,13 @@ Just Another Test Text Generator
 # JavaScript port
 ## Requirements
 * [NPM](https://www.npmjs.com/get-npm)
+* Live Server: `npm install -g live-server`
 
 ## Setup
 * Clone this repo
 * In terminal, go to your repo and type `npm i` to fetch the project's dependencies
+* Run `npm run dev` to start a test server for editing \ debugging
+* Run `npm run build` to create a final build for hosting
 
 # Original Author's Note
 This is the code behind [Just Another Test Text Generator](http://justanotherfoundry.com/generator) .
