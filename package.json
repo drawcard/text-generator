@@ -1,0 +1,19 @@
+{
+  "name": "jaf-text-generator",
+  "version": "1.0.0",
+  "description": "Just Another Test Text Generator",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justanotherfoundry/text-generator.git"
+  },
+  "author": "",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/justanotherfoundry/text-generator/issues"
+  },
+  "homepage": "https://github.com/justanotherfoundry/text-generator#readme"
+}
